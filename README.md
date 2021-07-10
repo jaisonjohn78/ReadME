@@ -4,16 +4,14 @@
 
 <div align="center" width="50">
 
-<img src="https://imgur.com/pDPvyNy" alt="Welcome!" width="300"/>
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/PiiW5ZX" data-context="false" ><a href="//imgur.com/a/PiiW5ZX"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
 <div align="center">
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
+  <a href="mailto:jaisonjohn78.com@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
