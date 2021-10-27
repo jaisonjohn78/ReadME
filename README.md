@@ -24,9 +24,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   
   
 - Hello World, I’m @jaisonjohn78    👋
-- I’m interested in Cloud and web Devlopment  👀
-- But Future Google SDE 💖
-- I’m currently Studing BCA   🌱
+- More Into Cloud and web Devlopment  👀
+- Googling to Google 💖
+- BCA 2023''   🌱
 - Reach me on instagram <a href="https://www.instagram.com/jaisonjohn78/">@jaisonjohn78</a>  📫
 
 <div align="center">
